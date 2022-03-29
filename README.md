@@ -1,4 +1,4 @@
-# SCLAiR
+# SCLAiR: Supervised Contrastive Learning for User and Device Independent Airwriting Recognition
 
 Implementation of the paper "SCLAiR : Supervised Contrastive Learning for User and Device Independent Airwriting Recognition" (https://arxiv.org/abs/2111.12938)
 
